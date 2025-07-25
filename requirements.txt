@@ -7,7 +7,7 @@ ipdb
 matplotlib
 numpy
 opencv-python
-scikit-imag
+scikit-image
 scipy
 tensorflow-gpu
 torch
