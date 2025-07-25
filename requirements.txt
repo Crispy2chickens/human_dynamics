@@ -9,7 +9,7 @@ numpy
 opencv-python
 scikit-image
 scipy
-tensorflow-gpu
+tensorflow
 torch
 torchvision
 tqdm
